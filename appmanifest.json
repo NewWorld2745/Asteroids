@@ -1,6 +1,6 @@
 {
-	"name": "New project",
-	"short_name": "New project",
+	"name": "Asteroids",
+	"short_name": "Asteroids",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
